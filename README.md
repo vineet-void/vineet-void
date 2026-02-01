@@ -61,8 +61,6 @@ I'm Vinnet Jangir, a 2nd-year Computer Science student and Full-Stack Developer
 
 ---
 
-## 🏆 Top Contributed Repo
-
 <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
 ---
@@ -79,19 +77,3 @@ I'm Vinnet Jangir, a 2nd-year Computer Science student and Full-Stack Developer
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
-
-
-<!--
-**vineet-void/vineet-void** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
