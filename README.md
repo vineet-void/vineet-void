@@ -37,7 +37,7 @@ I'm Vinnet Jangir, a 2nd-year Computer Science student and Full-Stack Developer
     <img src="https://komarev.com/ghpvc/?username=Saboo24&color=3a8296&label=Profile%20Views" />
   </a>
   <a href="https://github.com/vineet-void">
-    <img src="https://img.shields.io/github/followers/Saboo24?label=GitHub%20Followers&color=3a8296&style=flat" />
+    <img src="https://img.shields.io/github-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
   </a>
 </p>
 
