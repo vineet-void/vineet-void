@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=VINEET%20JANGIR&fontAlign=50" />
 
-I'm Vinnet Jangir, a 2nd-year Computer Science student and Full-Stack Developer 
+I'm Vineet Jangir, a 2nd-year Computer Science student and Full-Stack Developer 
 
 💡 *“Crafting logic and elegance in every line of code.”*
 
