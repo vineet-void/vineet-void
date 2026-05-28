@@ -15,30 +15,14 @@ I'm Vineet Jangir, a 2nd-year Computer Science student and Full-Stack Developer
 ### 📬 Connect with Me  
 
 <p align="center">
-  <a href="mailto:aminehamzaoui1926@gmail.com">
+  <a href="mailto:vineetjangir2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b">
-    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
-  </a>
-  <a href="https://www.instagram.com/a__m.i.n__e?igsh=MWY0M3hmMXd0OGxqNw==">
+
+  <a href="https://www.instagram.com/vineetjangir002/0">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
-  <a href="https://www.facebook.com/share/1EZqQrtBKf/">
-    <img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB" />
-  </a>
-  <a href="https://discord.com/users/805123459566010417">
-    <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/vineet-void">
-    <img src="https://komarev.com/ghpvc/?username=Saboo24&color=3a8296&label=Profile%20Views" />
-  </a>
-  <a href="https://github.com/vineet-void">
-    <img src="https://img.shields.io/github-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
-  </a>
 </p>
 
 ---
